@@ -40,7 +40,7 @@ Analysis of 535,302 transaction records from an online retail business operating
 
 ### 4. Dashboard Creation (Phase 5)
 - Designed executive summary
-- Added interactive slicers
+- Created Useful Visualiations
 - Documented key insights
 - Created professional layout
 
