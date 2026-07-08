@@ -6,7 +6,7 @@ Comprehensive data cleaning and exploratory data analysis (EDA) of online retail
 
 Analysis of 535,302 transaction records from an online retail business operating across 39 countries (Dec 2010 - Dec 2011). This project demonstrates end-to-end data analysis skills including data cleaning, transformation, visualization, and business insights generation.
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 ### Excel Features Used:
 - **Data Cleaning:** Removed 1,174 problematic records, handled missing values, flagged promotional items
